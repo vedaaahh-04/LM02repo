@@ -1,3 +1,4 @@
 this is the first line added in local repo
 2nd line in branch
-3rd line added
+3rd line added in b1
+4th line added for git diff
